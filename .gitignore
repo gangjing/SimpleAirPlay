@@ -1,0 +1,15 @@
+__pycache__/
+*.py[cod]
+.venv/
+engine/
+dist/
+build/
+.cache/
+*.spec
+*.log
+*.exe
+*.dll
+*.zip
+settings.json
+*.backup.json
+.env*
